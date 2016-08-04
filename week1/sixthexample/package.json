@@ -1,0 +1,12 @@
+{
+	"name": "Express_handling_get_request",
+	"version": "0.1.0",
+	"description": "Express handling get example",
+	"main": "app.js",
+	"dependencies": {
+		"express": "~4.13.3",
+		"consolidate": "~0.13.1",
+    "nunjucks": "~2.2.0"
+	},
+	"author": "Namitha"
+}

@@ -1,8 +1,8 @@
 var express = require('express'),
-		app = express(),
-		engines = require('consolidate'),
-		MongoClient = require('mongodb').MongoClient,
-		assert = require('assert');
+	app = express(),
+	engines = require('consolidate'),
+  MongoClient = require('mongodb').MongoClient,
+	assert = require('assert');
 
 app.engine('html', engines.nunjucks);
 app.set('view engine', 'html');
