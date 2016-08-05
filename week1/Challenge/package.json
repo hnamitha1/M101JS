@@ -1,0 +1,14 @@
+{
+	"name": "create_movie_entries",
+	"version": "0.1.0",
+	"description": "Using the MongoDB driver together with route handling and templates",
+	"main": "app.js",
+	"dependencies": {
+    "body-parser": "~1.14.2",
+		"express": "~4.13.3",
+		"consolidate": "~0.13.1",
+		"nunjucks": "~2.2.0",
+		"mongodb": "~2.1.3"
+	},
+	"author": "Namitha"
+}
