@@ -1,0 +1,17 @@
+{
+  "name": "query-operator",
+  "version": "1.0.0",
+  "description": "Query operator in the node.js driver",
+  "main": "app.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.7",
+    "command-line-args": "2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
