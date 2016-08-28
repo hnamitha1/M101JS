@@ -73,4 +73,3 @@ function commndLineOptions() {
    return options;
 }
 
-//To run this app: node app.js -o "personal finance"
